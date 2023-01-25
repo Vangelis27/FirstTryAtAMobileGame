@@ -1,4 +1,4 @@
-# FirstTryAtMobileAGame
+# FirstTryAtAMobileGame
 
 First attempt at making an incremental game using GDScript in the Godot Engine.
 This is a solo project aimed at getting more experienced at coding and making games.
